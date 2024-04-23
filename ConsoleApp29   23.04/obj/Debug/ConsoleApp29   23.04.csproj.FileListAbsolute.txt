@@ -1,0 +1,7 @@
+C:\Users\ELViN\source\repos\ConsoleApp29   23.04\ConsoleApp29   23.04\bin\Debug\ConsoleApp29   23.04.exe.config
+C:\Users\ELViN\source\repos\ConsoleApp29   23.04\ConsoleApp29   23.04\bin\Debug\ConsoleApp29   23.04.exe
+C:\Users\ELViN\source\repos\ConsoleApp29   23.04\ConsoleApp29   23.04\bin\Debug\ConsoleApp29   23.04.pdb
+C:\Users\ELViN\source\repos\ConsoleApp29   23.04\ConsoleApp29   23.04\obj\Debug\ConsoleApp29   23.04.csproj.AssemblyReference.cache
+C:\Users\ELViN\source\repos\ConsoleApp29   23.04\ConsoleApp29   23.04\obj\Debug\ConsoleApp29   23.04.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\ConsoleApp29   23.04\ConsoleApp29   23.04\obj\Debug\ConsoleApp29   23.04.exe
+C:\Users\ELViN\source\repos\ConsoleApp29   23.04\ConsoleApp29   23.04\obj\Debug\ConsoleApp29   23.04.pdb
